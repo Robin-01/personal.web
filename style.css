@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+img{
+    width:100px;
+    height:100px;
+}
+
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+header {
+    background:url("https://www.collegeadvisor.com/wp-content/uploads/2021/08/UCBerkeleyCampus-scaled.jpg");
+    background-size: cover;
+    color: white;
+}
+
+img{
+    border-radius: 50px;
+}
